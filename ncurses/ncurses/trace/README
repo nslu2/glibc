@@ -1,0 +1,5 @@
+-- $Id: README,v 1.1.1.1 2004/03/24 19:53:07 sure Exp $
+
+The files in this directory (trace) support both the terminfo and ncurses
+libraries.  Most of the functions are linked in only when the libraries
+are compiled with TRACE defined.
